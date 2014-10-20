@@ -5,12 +5,14 @@
   This is a probability model simulation of Premium Gacha of Love Live! School Idol Festival(LL SIF). The operator of this game revealed the possibility of all basic events,
 which is usually undercover in other game company. This is a good chance to get probability model by running numerous trials.
 
-##Complie Instruction
+##Compile Instruction
 
   I used some features of C++11. The compiler is required to support C++11.
 
-  Complie Command
+  Compile Command
+
   `g++ simulation.cpp main.cpp -o yourfilename -std=c++11`
+
   *yourfilename* is modifiable
 
 ##Options
