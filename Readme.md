@@ -20,7 +20,7 @@ I used some features of C++11. The compiler is required to support C++11.
 
   `-s`      : apply special gacha policy in which you will get a SR card at least
 
-  `-S`      : prevent echo of single premium gacha (in this mode, the performance of programm is improved obviously)
+  `-S`      : prevent echo of single premium gacha (in this mode, the performance of program is improved obviously)
 
 ##Remark
   
