@@ -18,18 +18,21 @@ int main(unsigned argc, char **argv)
 				exit(-1);
 			}
 			++i;
+			continue;
 		}
 
 		if (argv[i][1] == 's') //the option indicating the deployment of SR Bouns policy
 		{
 			isAlwaysSRDeployed = true;
 			++i;
+			continue;
 		}
 
 		if (argv[i][1] == 'S') //the option indicating the deployment of Slience mode
 		{
 			isSlienceModeDepolyed = true;
 			++i;
+			continue;
 		}
 	}
 	Simulation sim(trialTime);
