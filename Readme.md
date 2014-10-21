@@ -6,12 +6,11 @@
 which is usually undercover in other game company. This is a good chance to get probability model by running numerous trials.
 
 ##Compile Instruction
-
-  I used some features of C++11. The compiler is required to support C++11.
+I used some features of C++11. The compiler is required to support C++11.
 
   Compile Command
 
-  `g++ simulation.cpp main.cpp -o yourfilename -std=c++11`
+  `g++ Simulation.cpp main.cpp -o yourfilename -std=c++11`
 
   *yourfilename* is modifiable
 
